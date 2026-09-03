@@ -1,0 +1,28 @@
+{
+  "id": "clean-my-context",
+  "displayName": "Clean My Context",
+  "description": "Starts fresh model context in a BB thread while preserving its visible history and workspace.",
+  "icon": {
+    "url": "./icons/clean-my-context-c912f925.svg"
+  },
+  "tags": [
+    "context",
+    "threads",
+    "interface",
+    "productivity"
+  ],
+  "author": {
+    "name": "Mateo Cerquetella",
+    "github": "MateoCerquetella",
+    "url": "https://github.com/MateoCerquetella"
+  },
+  "category": "memory-and-context",
+  "source": {
+    "git": {
+      "url": "https://github.com/MateoCerquetella/bb-plugins.git",
+      "subdir": "plugins/clean-my-context",
+      "range": "^0.1.0",
+      "tagPrefix": "clean-my-context/"
+    }
+  }
+}
