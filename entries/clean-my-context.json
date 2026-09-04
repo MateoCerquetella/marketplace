@@ -1,7 +1,7 @@
 {
   "id": "clean-my-context",
   "displayName": "Clean My Context",
-  "description": "Starts fresh model context in a BB thread while preserving its visible history and workspace.",
+  "description": "Reset visible chat and model context without leaving your thread, branch, folder, or workspace. The action stays beside the microphone, asks for confirmation, and works only when the thread is idle or failed. Requires a BB release with the same-thread context-clear API.",
   "icon": {
     "url": "./icons/clean-my-context-c912f925.svg"
   },
@@ -17,6 +17,9 @@
     "url": "https://github.com/MateoCerquetella"
   },
   "category": "memory-and-context",
+  "screenshots": [
+    "./screenshots/clean-my-context/same-thread-reset.png"
+  ],
   "source": {
     "git": {
       "url": "https://github.com/MateoCerquetella/bb-plugins.git",
