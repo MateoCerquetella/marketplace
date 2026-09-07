@@ -1,7 +1,7 @@
 {
   "id": "usage-tracker",
   "displayName": "Usage Tracker",
-  "description": "Shows Codex, Claude Code, Grok, and OpenCode usage in a compact sidebar summary with provider details and 80/95% limit warnings.",
+  "description": "See subscription limits without leaving BB. Track Codex, Claude Code, Cursor, Grok, OpenCode, and Antigravity in a compact sidebar summary with provider details and 80/95% warnings.",
   "icon": {
     "url": "./icons/usage-tracker-a0ebde76.svg"
   },
@@ -10,10 +10,15 @@
     "rate-limits",
     "codex",
     "claude-code",
+    "cursor",
     "grok",
     "opencode",
+    "antigravity",
     "quota",
     "sidebar"
+  ],
+  "screenshots": [
+    "./screenshots/usage-tracker/sidebar-details.png"
   ],
   "author": {
     "name": "Mateo Cerquetella",
