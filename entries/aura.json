@@ -28,8 +28,9 @@
     }
   },
   "screenshots": [
-    "./screenshots/aura/aura-alpine.jpg",
-    "./screenshots/aura/aura-moonlight.jpg",
-    "./screenshots/aura/aura-slots.jpg"
+    "./screenshots/aura/01-alpine-half.jpg",
+    "./screenshots/aura/02-moonlight-full.jpg",
+    "./screenshots/aura/03-chat.jpg",
+    "./screenshots/aura/04-saved-slots.jpg"
   ]
 }
