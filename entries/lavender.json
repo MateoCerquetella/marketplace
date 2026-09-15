@@ -28,6 +28,8 @@
     }
   },
   "screenshots": [
+    "./screenshots/lavender/dark-new-thread.jpg",
+    "./screenshots/lavender/light-new-thread.jpg",
     "./screenshots/lavender/dark-settings.png",
     "./screenshots/lavender/light-settings.png"
   ],
