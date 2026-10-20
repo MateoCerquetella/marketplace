@@ -1,7 +1,7 @@
 {
   "id": "steel-browser",
-  "displayName": "Steel Browser",
-  "description": "Operate a self-hosted Steel browser from BB: create project-scoped sessions, navigate with Playwright, and watch pages inline in your thread.",
+  "displayName": "BB Surf",
+  "description": "Operate self-hosted Steel browser sessions from BB with project-scoped sessions, Playwright navigation, and inline viewing.",
   "icon": {
     "url": "./icons/steel-browser-95888c52.svg"
   },
